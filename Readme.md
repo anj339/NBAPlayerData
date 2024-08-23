@@ -40,6 +40,15 @@ Model Accuracy: The Random Forest Classifier model achieved an accuracy of 100% 
 
 Transfer Predictions: The model predicted which players are likely to transfer to a new team based on their playoff performance metrics.
 
+The residual analysis for the points prediction model reveals the following:
+
+Residual Plot: The residuals are scattered randomly around zero, indicating that the model does not exhibit obvious patterns or biases and captures the underlying data structure well.
+
+Histogram of Residuals: The residuals appear to follow a roughly normal distribution, suggesting that the model's errors are normally distributed.
+
+Q-Q Plot: The residuals lie approximately along the reference line, further confirming that the residuals are normally distributed.
+Overall, the residual analysis suggests that the points prediction model is well-fitted and meets the assumptions of linear regression.
+
 ## Conclusion
 This project demonstrates the use of a Random Forest Classifier to predict NBA player transfers based on performance data. The high accuracy of the model suggests that it effectively captures the relationships between performance metrics and the likelihood of a player transferring to a new team.
 
