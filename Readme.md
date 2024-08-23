@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Aug 23 12:53:03 2024
-
-@author: anjou
-"""
 
 # NBA Player Analysis and Prediction
 
