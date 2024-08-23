@@ -94,9 +94,6 @@ print(df)
 
 print(df.head())
 
-
-#determining the relationship between age and wins
-
 import plotly.express as px
 import statsmodels.api as sm
 import plotly.graph_objects as go
