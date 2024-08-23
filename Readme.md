@@ -9,8 +9,11 @@ Playoff Participation Analysis: Evaluating playoff performance data to estimate 
 
 ## Features
 Salary Prediction:
+
 Predict future salaries of Miami Heat players using historical performance metrics and salary data.
+
 Playoff Data Analysis:
+
 Analyze playoff data to assess the chances of NBA players participating in the next season.
 Estimate the likelihood of player transfers based on playoff performance and other relevant factors.
 
